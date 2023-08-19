@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Proven Expertise",
+    "description": "Drawing for multiple years of experience in big-tech, financial and telecom industries.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Taylored Solutions",
+    "description": "We work directly with you on bespoke implementation fitting exactly your business need.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Swiss Quality",
+    "description": "We stay commited to high quality of our work.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
