@@ -4,7 +4,7 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Business advisory is the final tier of the accounting pyramid. Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+We work with you to continuously improve your security posture, identifying vulnerabilities and implementing sustainable remediations.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
