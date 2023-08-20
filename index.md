@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# tswiss - secure software solutions
+# tswiss - technical solutions 
 
 We provide software solutions in field of artificial intelligence and cyber security.
