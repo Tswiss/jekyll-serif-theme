@@ -6,8 +6,6 @@ weight: 1
 
 We partner with you to build machine learning solutions that work, enabling you to make better business decisions and drive better business outcomes.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
 # Objectives
 
 Financial accounting and financial reporting are often used as synonyms.
