@@ -6,7 +6,6 @@ weight: 2
 
 We develop secure and scalable software that meets specific requirements for your business.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
