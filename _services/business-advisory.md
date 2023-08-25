@@ -6,7 +6,7 @@ weight: 4
 
 We work with you to continuously improve your security posture, identifying vulnerabilities and implementing sustainable remediations.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/illustrations/pointing.svg)
 
 # Objectives
 
