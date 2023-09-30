@@ -46,6 +46,6 @@ Data-Driven Decision Making: Harness the power of data to make informed decision
 **5. Collaborative Approach:** Your success is our success. We collaborate closely with your team to ensure seamless integration and knowledge transfer.
 
 # Discover the Future of Your Business:
-Unlock unparalleled insights, drive innovation, and propel your business to new heights with [Your Company Name]. Let's embark on a transformative journey together.
+Unlock unparalleled insights, drive innovation, and propel your business to new heights with us. Let's embark on a transformative journey together.
 
 Contact us today to explore the possibilities of AI and machine learning for your business.
