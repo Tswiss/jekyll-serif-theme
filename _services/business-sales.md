@@ -58,6 +58,6 @@ We embrace innovation and keep pace with the latest advancements. Our solutions 
 We see ourselves as an extension of your team, working hand in hand to realize your software engineering vision. Communication and collaboration are at the core of our approach.
 
 # Embark on a Journey of Innovation:
-Experience the power of exceptional software engineering with [Your Company Name]. Let's collaborate to bring your digital aspirations to life.
+Experience the power of exceptional software engineering with us. Let's collaborate to bring your digital aspirations to life.
 
 Contact us today to embark on a journey of technological transformation.
