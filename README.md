@@ -1,1 +1,1 @@
-tswiss.github.io
+https://tswiss.ch
