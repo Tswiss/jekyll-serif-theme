@@ -15,7 +15,7 @@ We are the driving force behind unparalleled software engineering solutions that
 In a rapidly evolving digital landscape, our vision is clear: to empower businesses with the tools, technologies, and strategies needed to thrive. We're dedicated to:
 
 **1. Engineering Excellence:**
-At [Your Company Name], we offer a comprehensive suite of software engineering services that encompass the entire software development lifecycle. From conceptualization and design to development, testing, and deployment, we've got the expertise to guide you every step of the way.
+We offer a comprehensive suite of software engineering services that encompass the entire software development lifecycle. From conceptualization and design to development, testing, and deployment, we've got the expertise to guide you every step of the way.
 
 **2. Customized Innovations:**
 Recognizing that every business has unique challenges and aspirations, we tailor our software solutions to align with your specific needs, industry requirements, and growth objectives. Your success is our priority.
